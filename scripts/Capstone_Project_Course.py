@@ -1,4 +1,3 @@
-import pandas as import
+import pandas as pd
 import numpy as np
 print("Hello Capstone Project Course!")
-cases = [100,2000]
